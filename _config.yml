@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://qrgservices.github.io
+title: QRG Direct
+paginate: 5
